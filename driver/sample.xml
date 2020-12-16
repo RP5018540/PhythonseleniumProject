@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="17.686" timestamp="2020-12-04T14:27:30.843224" hostname="DESKTOP-SEB2A6M"><testcase classname="test_pytestadactin.Test_adactin" name="test_login" time="17.213" /></testsuite></testsuites>
